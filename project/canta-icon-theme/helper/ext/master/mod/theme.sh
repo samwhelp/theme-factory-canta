@@ -261,7 +261,7 @@ mod_theme_build_core () {
 	else
 
 		if [[ "${theme_bright_name}" == "dark" ]]; then
-			val="Tela-circle-dark,Tela-dark,breeze,Adwaita,gnome,hicolor"
+			val="Tela-circle-dark,Tela-dark,breeze-dark,Adwaita,gnome,hicolor"
 		else
 			val="Tela-circle-light,Tela-light,breeze,Adwaita,gnome,hicolor"
 		fi
