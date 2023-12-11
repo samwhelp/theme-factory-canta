@@ -1,0 +1,9 @@
+[submodule "project/canta-gtk-theme/asset/canta-gtk-theme"]
+	path = project/canta-gtk-theme/asset/canta-gtk-theme
+	url = https://github.com/vinceliuice/Canta-theme.git
+[submodule "project/canta-icon-theme/asset/canta-icon-theme"]
+	path = project/canta-icon-theme/asset/canta-icon-theme
+	url = https://github.com/vinceliuice/Canta-theme.git
+[submodule "project/canta-kde-theme/asset/canta-kde-theme"]
+	path = project/canta-kde-theme/asset/canta-kde-theme
+	url = https://github.com/vinceliuice/Canta-kde.git
